@@ -4,4 +4,6 @@ this is addition to readme file
 checking
 
 Hi
-Hoe are you?
+How are you?
+2nd time, changes made using git
+
