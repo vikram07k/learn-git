@@ -5,5 +5,5 @@ checking
 
 Hi
 How are you?
-2nd time, changes made with git
+2nd time, changes made in git
 
